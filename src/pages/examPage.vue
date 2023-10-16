@@ -26,222 +26,273 @@
         <div class="col-12" style="color: navy">
           <h4>Exams Categories</h4>
         </div>
+
         <div class="row" id="exam-container">
           <div
-            class="col-5 row text-blue"
+            class="col-5 text-blue"
             style="cursor: pointer; text-decoration: underline"
           >
             Form 1 End of Term 1
           </div>
           <div
-            class="col-5 row text-blue"
+            class="col-5 text-blue"
             style="cursor: pointer; text-decoration: underline"
           >
-            Form 1 End of Term 1
+            Form 1 End of Term 2
           </div>
           <div
-            class="col-5 row text-blue"
+            class="col-5 text-blue"
             style="cursor: pointer; text-decoration: underline"
           >
-            Form 1 End of Term 1
+            Form 1 End of Term 3
           </div>
           <div
-            class="col-5 row text-blue"
+            class="col-5 text-blue"
             style="cursor: pointer; text-decoration: underline"
           >
-            Form 1 End of Term 1
+            Form 1 Mid Term Exams
           </div>
           <div
-            class="col-5 row text-blue"
+            class="col-5 text-blue"
             style="cursor: pointer; text-decoration: underline"
           >
-            Form 1 End of Term 1
+            Form 1 Opener
           </div>
           <div
-            class="col-5 row text-blue"
+            class="col-5 text-blue"
             style="cursor: pointer; text-decoration: underline"
           >
-            Form 1 End of Term 1
+            Form 2 End of Term 1
           </div>
           <div
-            class="col-5 row text-blue"
+            class="col-5 text-blue"
             style="cursor: pointer; text-decoration: underline"
           >
-            Form 1 End of Term 1
+            Form 2 End of Term 2
           </div>
           <div
-            class="col-5 row text-blue"
+            class="col-5 text-blue"
             style="cursor: pointer; text-decoration: underline"
           >
-            Form 1 End of Term 1
+            Form 2 End of Term 3
           </div>
           <div
-            class="col-5 row text-blue"
+            class="col-5 text-blue"
             style="cursor: pointer; text-decoration: underline"
           >
-            Form 1 End of Term 1
+            Form 2 Mid Term Exams
           </div>
           <div
-            class="col-5 row text-blue"
+            class="col-5 text-blue"
             style="cursor: pointer; text-decoration: underline"
           >
-            Form 1 End of Term 1
+            Form 2 Opener
           </div>
           <div
-            class="col-5 row text-blue"
+            class="col-5 text-blue"
             style="cursor: pointer; text-decoration: underline"
           >
-            Form 1 End of Term 1
+            Form 3 End of Term 1
           </div>
           <div
-            class="col-5 row text-blue"
+            class="col-5 text-blue"
             style="cursor: pointer; text-decoration: underline"
           >
-            Form 1 End of Term 1
+            Form 3 End of Term 2
           </div>
           <div
-            class="col-5 row text-blue"
+            class="col-5 text-blue"
             style="cursor: pointer; text-decoration: underline"
           >
-            Form 1 End of Term 1
+            Form 3 End of Term 3
           </div>
           <div
-            class="col-5 row text-blue"
+            class="col-5 text-blue"
             style="cursor: pointer; text-decoration: underline"
           >
-            Form 1 End of Term 1
+            Form 3 Mid Term Exams
           </div>
           <div
-            class="col-5 row text-blue"
+            class="col-5 text-blue"
             style="cursor: pointer; text-decoration: underline"
           >
-            Form 1 End of Term 1
+            Form 3 Opener
           </div>
           <div
-            class="col-5 row text-blue"
+            class="col-5 text-blue"
             style="cursor: pointer; text-decoration: underline"
           >
-            Form 1 End of Term 1
+            Form 4 End of Term 1
           </div>
           <div
-            class="col-5 row text-blue"
+            class="col-5 text-blue"
             style="cursor: pointer; text-decoration: underline"
           >
-            Form 1 End of Term 1
+            Form 4 End of Term 2
           </div>
           <div
-            class="col-5 row text-blue"
+            class="col-5 text-blue"
             style="cursor: pointer; text-decoration: underline"
           >
-            Form 1 End of Term 1
+            Form 4 Mid Term Exams
           </div>
           <div
-            class="col-5 row text-blue"
+            class="col-5 text-blue"
             style="cursor: pointer; text-decoration: underline"
           >
-            Form 1 End of Term 1
+            Form 4 Opener
           </div>
           <div
-            class="col-5 row text-blue"
+            class="col-5 text-blue"
             style="cursor: pointer; text-decoration: underline"
           >
-            Form 1 End of Term 1
+            Form 4 Term 2 Mock Exams
           </div>
           <div
-            class="col-5 row text-blue"
+            class="col-5 text-blue"
             style="cursor: pointer; text-decoration: underline"
           >
-            Form 1 End of Term 1
+            PP1 End Term 3
           </div>
           <div
-            class="col-5 row text-blue"
+            class="col-5 text-blue"
             style="cursor: pointer; text-decoration: underline"
           >
-            Form 1 End of Term 1
+            Grade 1 Opener
           </div>
           <div
-            class="col-5 row text-blue"
+            class="col-5 text-blue"
             style="cursor: pointer; text-decoration: underline"
           >
-            Form 1 End of Term 1
+            Grade 1 End of Term 1
           </div>
           <div
-            class="col-5 row text-blue"
+            class="col-5 text-blue"
             style="cursor: pointer; text-decoration: underline"
           >
-            Form 1 End of Term 1
+            Grade 1 End of Term 2
           </div>
           <div
-            class="col-5 row text-blue"
+            class="col-5 text-blue"
             style="cursor: pointer; text-decoration: underline"
           >
-            Form 1 End of Term 1
+            Grade 1 End of Term 3
           </div>
           <div
-            class="col-5 row text-blue"
+            class="col-5 text-blue"
             style="cursor: pointer; text-decoration: underline"
           >
-            Form 1 End of Term 1
+            Grade 2 Opener Exams
           </div>
           <div
-            class="col-5 row text-blue"
+            class="col-5 text-blue"
             style="cursor: pointer; text-decoration: underline"
           >
-            Form 1 End of Term 1
+            Grade 2 End of Term 1
           </div>
           <div
-            class="col-5 row text-blue"
+            class="col-5 text-blue"
             style="cursor: pointer; text-decoration: underline"
           >
-            Form 1 End of Term 1
+            Grade 2 End of Term 2
           </div>
           <div
-            class="col-5 row text-blue"
+            class="col-5 text-blue"
             style="cursor: pointer; text-decoration: underline"
           >
-            Form 1 End of Term 1
+            Grade 2 End of Term 3
           </div>
           <div
-            class="col-5 row text-blue"
+            class="col-5 text-blue"
             style="cursor: pointer; text-decoration: underline"
           >
-            Form 1 End of Term 1
+            Grade 3 Opener Exams
           </div>
           <div
-            class="col-5 row text-blue"
+            class="col-5 text-blue"
             style="cursor: pointer; text-decoration: underline"
           >
-            Form 1 End of Term 1
+            Grade 3 End of Term 1
           </div>
           <div
-            class="col-5 row text-blue"
+            class="col-5 text-blue"
             style="cursor: pointer; text-decoration: underline"
           >
-            Form 1 End of Term 1
+            Grade 3 End of Term 2
           </div>
           <div
-            class="col-5 row text-blue"
+            class="col-5 text-blue"
             style="cursor: pointer; text-decoration: underline"
           >
-            Form 1 End of Term 1
+            Grade 3 End of Term 3
           </div>
           <div
-            class="col-5 row text-blue"
+            class="col-5 text-blue"
             style="cursor: pointer; text-decoration: underline"
           >
-            Form 1 End of Term 1
+            Grade 4 Opener Exams
           </div>
+
+          <div
+            class="col-5 text-blue"
+            style="cursor: pointer; text-decoration: underline"
+          >
+            Grade 4 End of Term 2
+          </div>
+          <div
+            class="col-5 text-blue"
+            style="cursor: pointer; text-decoration: underline"
+          >
+            Grade 4 End of Term 3
+          </div>
+          <div
+            class="col-5 text-blue"
+            style="cursor: pointer; text-decoration: underline"
+          >
+            Grade 5 Opener Exams
+          </div>
+          <div
+            class="col-5 text-blue"
+            style="cursor: pointer; text-decoration: underline"
+          >
+            Grade 5 End of Term 2
+          </div>
+          <div
+            class="col-5 text-blue"
+            style="cursor: pointer; text-decoration: underline"
+          >
+            Grade 5 End of Term 3
+          </div>
+          <div
+            class="col-5 text-blue"
+            style="cursor: pointer; text-decoration: underline"
+          >
+            Grade 6 Opener Exams
+          </div>
+          <div
+            class="col-5 text-blue"
+            style="cursor: pointer; text-decoration: underline"
+          >
+            Grade 7 Opener Exams
+          </div>
+          <div
+            class="col-5 text-blue"
+            style="cursor: pointer; text-decoration: underline"
+          ></div>
         </div>
       </div>
+      <AllExamList />
     </div>
   </q-page>
 </template>
 
 <script>
 import { defineComponent } from "vue";
+import AllExamList from "src/components/allExamList.vue";
 
 export default defineComponent({
   name: "ExamPage",
+  components: { AllExamList },
 });
 </script>
 <style scoped>
